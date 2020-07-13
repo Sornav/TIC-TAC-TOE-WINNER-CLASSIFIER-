@@ -5,6 +5,6 @@ Tic-Tac-Toe Winner classifier using Decision Trees and Random Forest on the tic-
 
 **Note:I usually visualize my data by using Plotly Library,so if you are having trouble viewing them in the GitHub viewer, you are free to clone my repository on your local machine and check them out in jupyter notebook,other wise follow the step below.
 
-***********Please copy the Notebook URL nad paste it on:-http://nbviewer.jupyter.org/
+***********Please copy the Notebook URL and paste it on:-http://nbviewer.jupyter.org/
 
-******************************Peace Out***************************
+#################Peace Out***************************
